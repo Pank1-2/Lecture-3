@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Lecture 3 - Kiko P</title>
+  <meta charset="utf-8">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+  <link href="style.css" rel="stylesheet" type="text/css">
+
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+  <script>
+    function myFunction() {
+      document.getElementById("x").innerHTML = "Venmo - @Kiko-Pan";
+    }
+    </script>
+    
+</head>
+  <body>
+    <div class="jumbotron text-center">
+  <h1>Hello!</h1>
+  <p1>This is Kiko's Lecture 3 Homework. Here are some of the pets I want!</p1> 
+  </div>
+
+<center><div>
+<div class="col-sm-4">
+      <center><div>
+        <h3>Page 3</h3>
+   
+      <p>Here are some cute monkeys</p>
+
+      <img alt = "Money" src="https://ychef.files.bbci.co.uk/624x351/p043lqmb.jpg" width= "500"
+      />
+
+      <p></p>
+      <img alt = "Monkey2" src="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F130230%252Fe7f3b2ead62b49ec8d386f2b43ae4e86.png%252F950x534__filters%253Aquality%252880%2529.png" width= "500"
+      />
+
+      <p></p>
+      <img alt = "Monkey3" src="https://e3.365dm.com/19/01/2048x1152/skynews-monkeys-clone-gene-edited_4559943.jpg" width= "500"
+      />
+
+      <p></p>
+
+      <p>Head on Back to Page 1 For Doggy pictures!</p>
+
+      <a href="index.html">Page 1</a>
+
+
+      <p>You can also look at kittens on Page 2</p>
+      <a href="page1.html">Page 2</a>
+    </div>
+ 
+    <p></p>
+
+    <center><p id="x"></p></center>
+    <center><button type="button!" onclick="myFunction()">Donate!</button></center>
+  </div>
+
+</body>
+</html> 
